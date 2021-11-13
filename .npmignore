@@ -1,0 +1,3 @@
+# Specifically include dist to enable npm installs from git
+# See: https://stackoverflow.com/questions/48287776/automatically-build-npm-module-on-install-from-github
+!dist
